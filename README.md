@@ -1,5 +1,5 @@
 # Student-Management-System  
-## What does Student Management System doese? 
+## What does Student Management System do? 
  Student managment system is an application for tracking students information in different class groups.  
  ## Which Technology is used to build the application?  
  Python, Django, Html, CSS, Bootstrap, FontAwsom, dbsqulite3  
